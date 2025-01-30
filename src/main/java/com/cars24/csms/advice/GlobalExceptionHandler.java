@@ -23,6 +23,8 @@ public class GlobalExceptionHandler {
     //comment
     //more
 
+    // happy flow
+
 
 
 //    @ExceptionHandler(ValidationException.class)
